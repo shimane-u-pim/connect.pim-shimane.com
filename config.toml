@@ -4,6 +4,7 @@ title = 'Pim Connect'
 theme = 'hugo-theme-hello-friend-ng'
 defaultContentLanguage = 'ja'
 hasCJKLanguage = true
+enableGitInfo = true
 
 [params]
   homeSubtitle = 'ものづくりの進化をすべての人に'
