@@ -1,0 +1,41 @@
+baseURL = 'https://connect.pim-shimane.com/'
+languageCode = 'ja-jp'
+title = 'Pim Connect'
+theme = 'hugo-theme-hello-friend-ng'
+defaultContentLanguage = 'ja'
+hasCJKLanguage = true
+
+[params]
+  homeSubtitle = 'ものづくりの進化をすべての人に'
+
+  description = '技術や手記を世界とシェアするプラットフォーム'
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/shimane_u_Pim"
+
+  [[params.social]]
+    name = "facebook"
+    url = "https://www.facebook.com/Shimane.Pim/"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/pim_shimane/"
+
+  [[params.social]]
+    name = "youtube"
+    url = "https://www.youtube.com/channel/UCKcFtXDUQGi-z3DKBasYjMQ"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/shimane-u-pim"
+
+[languages]
+  [languages.ja]
+    [languages.ja.params.logo]
+      logoText = 'pim.connect'
+
+  [[menu.main]]
+    identifier = 'contents'
+    name = 'Contents'
+    url = '/posts'
