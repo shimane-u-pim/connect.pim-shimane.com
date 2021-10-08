@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Pim Connect</title><link>https://connect.pim-shimane.com/posts/</link><description>Recent content in Posts on Pim Connect</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Fri, 08 Oct 2021 22:13:36 +0900</lastBuildDate><atom:link href="https://connect.pim-shimane.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Testing 123..</title><link>https://connect.pim-shimane.com/posts/20211008-testing123/</link><pubDate>Fri, 08 Oct 2021 22:13:36 +0900</pubDate><guid>https://connect.pim-shimane.com/posts/20211008-testing123/</guid><description>サーバの構築を行ったことがある人なら1度は見たことがあるであろうTesting 123..の表記。 今回はテスト投稿ですが、せっかくですしApa</description><content type="html"><![CDATA[<p>　サーバの構築を行ったことがある人なら1度は見たことがあるであろう<code>Testing 123..</code>の表記。
+今回はテスト投稿ですが、せっかくですしApacheについて語ろうかと思います。</p>
+<p>　一応Testing 123はCentOS系のApacheで出てくる初期画面です。
+実のところ私はUbuntuをメインで使っているためこの画面を自環境で見たことはありません。</p>
+<p>　昨今ではなぜかApacheは毛嫌いされているように思います。
+というよりNginxを使おうという流れが多いという感じでしょうか。</p>
+<p>　しかしながら、今現在ではやはりApacheを使うことを推奨している環境のほうが多いと思います（特にPHP環境）。
+私が個人的に使っている<a href="https://docs.nextcloud.com/server/latest/admin_manual/installation/system_requirements.html">NextCloudの推奨要件</a>はこんな感じ。
+Apacheが推奨になっています。</p>
+<p>　それ以外のツールでもApacheを明示的に指定しているソフトウェアが多くあり、まだApacheは死んでいないと思っています。</p>
+<p>　今回の記事はテストですし軽めにこのような形で終わりたいと思います。
+新しい技術としてNginxはとても素晴らしいと思いますが、まだApacheは必要な技術です。</p>
+<p>　Webを学習するならスルーせずにApacheの設定で苦しみましょう！</p>
+]]></content></item></channel></rss>
