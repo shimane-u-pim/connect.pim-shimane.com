@@ -1,4 +1,119 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Pim Connect</title><link>https://connect.pim-shimane.com/posts/</link><description>Recent content in Posts on Pim Connect</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0900</lastBuildDate><atom:link href="https://connect.pim-shimane.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>実際の攻撃手段を学んで自衛しよう</title><link>https://connect.pim-shimane.com/posts/20211219-protect-from-steal/</link><pubDate>Wed, 15 Dec 2021 00:00:00 +0900</pubDate><guid>https://connect.pim-shimane.com/posts/20211219-protect-from-steal/</guid><description>セキュリティの関係上、再現性が出てしまう内容は黒塗りにしています。 具体的な手法をわからなくしているので危険性がいまいちわからないかと思います</description><content type="html"><![CDATA[<iframe style="width: 100%; height: 500px;" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Pim Connect</title><link>https://connect.pim-shimane.com/posts/</link><description>Recent content in Posts on Pim Connect</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0900</lastBuildDate><atom:link href="https://connect.pim-shimane.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Pimアドベントカレンダー 2022年12月</title><link>https://connect.pim-shimane.com/posts/20221222-pimadv/</link><pubDate>Thu, 22 Dec 2022 00:00:00 +0900</pubDate><guid>https://connect.pim-shimane.com/posts/20221222-pimadv/</guid><description>みなさんこんにちは！ パッと 一緒に ものづくり！ 島根大学ものづくり部Pimです！ Pimは「ものづくりなら何でもあり」というスタンスを取っています</description><content type="html"><![CDATA[<p>みなさんこんにちは！
+パッと 一緒に ものづくり！ 島根大学ものづくり部Pimです！</p>
+<p>Pimは「ものづくりなら何でもあり」というスタンスを取っていますが、それ故に具体的に何をやっているのかわかりにくいです。
+そこで今回は近況報告と題して、部員それぞれの活動について簡単に紹介します！</p>
+<hr>
+<h2 id="pimとvr">PimとVR</h2>
+<p>今回のPim Connect更新は、「全国学生VRサークル活動報告会」のアドベントカレンダーに寄稿します。
+そこでVRの話をしないのは違うと思うので、Pim部内におけるVRの話をします。</p>
+<h3 id="pim部内のvr普及状況">Pim部内のVR普及状況</h3>
+<p>台数を人数で割ると、Pim現役部員では7人に1人ぐらいがVR機器を持っています。
+こう言うとちょっと普及しているように聞こえますが、実際には私が1人で3台VR機器を持っているのでVR機器所持者は少ないです。
+持っていなくても使ったことがあるという人は多いです。VR機器を使ったアルバイトをやっている人がいるとか。</p>
+<h3 id="vrでやっていること">VRでやっていること</h3>
+<p>VR界隈ではあまり話題に挙がらないゲームをやっています。Microsoft Flight Simulatorです。</p>
+<p>同じゲームでもVRとnon VRでは感覚が大違い。離陸する時のワクワクする感じは機内から外を眺めないと味わえません。それが疑似体験できるのはVRならでは。PCでVRやっている人は是非ともやってほしいタイトルです。</p>
+<h3 id="今後vr関連でやりたい事">今後VR関連でやりたい事</h3>
+<p>フルトラに憧れて買ったKinect。今はWindows Helloの顔認証にのみ活躍しています。これをもっと活用したい&hellip;。Vtuberにでもなるか&hellip;？</p>
+<hr>
+<h2 id="clusterのワールド作成-進捗報告">Clusterのワールド作成 進捗報告</h2>
+<p>部内でClusterのワールドを作成する事になりました。この記事はその進捗を記録する物です。</p>
+<h3 id="作りたい物">作りたい物</h3>
+<p>Pimのバーチャル部室。LT会のためのスクリーンを搭載。</p>
+<h3 id="現状の進捗">現状の進捗</h3>
+<p>下準備～作業開始といったところ。</p>
+<h3 id="blender班">Blender班</h3>
+<p>ワールドの概形を表した仮3Dモデルを作成しています。</p>
+<h3 id="unity班">Unity班</h3>
+<p>極めて簡単なワールドを試作してアップロードし、動作確認しました。</p>
+<h3 id="事務処理系">事務処理系</h3>
+<p>連絡ツールと進捗管理表を兼ねてMattermostを使用しています。Slackのようなチャットアプリと、Notionで作った進捗管理表のようなものが1つのアプリになっています。
+班ごとに進捗管理表を作りこんで、作業の効率化を狙います。</p>
+<h3 id="今後">今後</h3>
+<p>進捗管理表の使い方を共有したり、画面共有などClusterの機能をワールドに実装したり、3Dモデルを用意したり、やる事は盛りだくさんです。今年度中にどこまでできるのやら&hellip;。</p>
+<hr>
+<h2 id="今自作キーボードがアツい">今、自作キーボードがアツい！</h2>
+<p>パーツ単位で好きな物を選び組み合わせて作る自作キーボード。キーボードにこだわる人が行き着く沼地です。
+今、自作キーボードがアツい！と言い張って、大学内で流行らせようとしています。</p>
+<h3 id="自作キーボードの魅力">自作キーボードの魅力</h3>
+<p>好きな打鍵感を追求出来る事、全てのキーの割り当てを自由に設定できる事など、こだわりに応えてくれる事が魅力です。</p>
+<h3 id="自作キーボード製作会">自作キーボード製作会</h3>
+<!-- raw HTML omitted -->
+<p>部員を集めてみんなで自作キーボードを作りました。ErgoArrows、Stickey4 v2、TONE&amp;NOTEを作成しました。</p>
+<p><img src="https://user-images.githubusercontent.com/26180919/209075416-14b2499c-1c45-4889-ba76-02537b025d39.jpg" alt="イベント参加者がテーブルを囲んでいる図"></p>
+<p><img src="https://user-images.githubusercontent.com/26180919/209075703-d09785b5-bc30-4f50-8821-48abb9cca029.jpg" alt="ErgoArrowsの完成品"></p>
+<p><img src="https://user-images.githubusercontent.com/26180919/209075601-3affac78-131d-4526-9f65-cf9cca3c50ac.jpg" alt="Stickey4 v2とTONE&amp;NOTEの完成品"></p>
+<h3 id="最近組んだ物">最近組んだ物</h3>
+<!-- raw HTML omitted -->
+<p>サークルではなく別の活動ですが、meishi Trackball moduleを組みました。
+自作トラックボールって夢がありますね。</p>
+<p><img src="https://user-images.githubusercontent.com/26180919/209075479-26e9c90c-95a4-407e-b29c-095c7a21f10d.jpg" alt="自作トラックボールの完成品"></p>
+<h3 id="今後やりたい事">今後やりたい事</h3>
+<ul>
+<li>meishi Trackball Moduleを改造していい感じのトラックボールを作る</li>
+<li>meishi Trackball Moduleを活用した何かを作る</li>
+<li>ErgoArrows 2台目を作る</li>
+<li>携行用キーボードの製作</li>
+<li>第2回 自作キーボード製作会の実施</li>
+</ul>
+<hr>
+<h2 id="個人製作匿名-3dプリンタを使ってものづくり">個人製作(匿名): 3Dプリンタを使ってものづくり</h2>
+<p>近年一般家庭に普及した3Dプリンターを使って「ない物」をいろいろ作ろうとしています。<br>
+多くの場合は要ら「ない物」を作っていますが、無駄なものを気軽に作れるのも3Dプリンターの魅力だと私は思います。</p>
+<p><strong>最近作ったもの</strong></p>
+<ul>
+<li>Youtubeのロゴ</li>
+</ul>
+<!-- raw HTML omitted -->
+<p>赤いフィラメントが手元にあったので作ってみました。<br>
+要らない物なので、部室に置いてきました。</p>
+<ul>
+<li>エアソフトガンの装飾品</li>
+</ul>
+<!-- raw HTML omitted -->
+<p>私が他サークルで使っているエアソフトガンの銃口に着けるパーツを自作しました。<br>
+銃口とパーツを繋げるための14㎜の逆ねじが技術不足で作れなかったため、ネット上でダウンロードするしかなかったのは反省点です。<br>
+大口径のエネルギー砲をイメージして作ったはずなのに、結果的にフラッシュハイダーと呼ばれるものの一種と形が似ていたのはどうして&hellip;..</p>
+<p><img src="https://user-images.githubusercontent.com/26180919/209075044-a9da929d-fa63-4334-876f-402663b030a9.jpg" alt="装飾品の図"></p>
+<p><img src="https://user-images.githubusercontent.com/26180919/209075063-747cd17b-12fb-44e4-92fd-47a309c112ee.jpg" alt="装飾品を装着したエアソフトガン"></p>
+<p><img src="https://user-images.githubusercontent.com/26180919/209075075-4fecedcb-106c-46a4-b08a-d32830c0c0ea.jpg" alt="装着部の拡大画像"></p>
+<hr>
+<h2 id="個人製作匿名--what-grundy-is-it">個人製作(匿名):  What Grundy is it?</h2>
+<p>突然ですが、次の問題を考えます。</p>
+<blockquote>
+<p>S={s_1,s_2,&hellip;,s_n}を空でない正整数の有限集合とする。この集合に対し、数列{a_n}を以下で定める:</p>
+<p>a_k=mex(a_(k-s_1),a_(k-s_2),&hellip;, a_(k-s_n))、ただしk&lt;0のときa_k=-1とする。</p>
+<p>ただし、mex(b_1,b_2,&hellip;,b_n)は、b_1,b_2,&hellip;,b_nの中に含まれない最小の0以上の整数である。</p>
+<p>このとき、a_kは最終的に周期的になることが知られている。この周期を、s_1,s_2,&hellip;,s_nを用いて表せ。</p>
+</blockquote>
+<p>この問題は、<strong>未解決</strong>です。n=1,2のときは解決済、n&gt;=3のときも部分的に解決済ですが、n&gt;=4の場合はほとんど結果が知られていません。</p>
+<h3 id="作ったもの">作ったもの</h3>
+<p>n=3のときの様子を可視化するため、現在時刻の時分秒をSの要素としたときに、数列とその周期がどうなるかをリアルタイムで表示する「<a href="https://asangi-a4ac.github.io/what-grundy-is-it/">What Grundy is it?</a>」というサイトを作りました。</p>
+<p>眺めていたら、何か発見があるかもしれません。</p>
+<hr>
+<h2 id="個人製作荒木-sakamatafontproject">個人製作(荒木): SakamataFontProject</h2>
+<p>「手書き文字」にコンプレックスを持っていた著者が作った、新たな「文字」の楽しみ方です。</p>
+<p>もともと沙花叉クロヱというバーチャルアイドル<!-- raw HTML omitted -->の文字がとても特徴的であり、様々なコメントが寄せられていました。
+私は彼女の文字に情報伝達以外の目的を追加し、文字が主体となるエンターテインメントととして使える新たな文字での遊び方ができるようにしました。</p>
+<p>また、彼女のファン（以下、飼育員）がTwitterなどで言及していたような文字の汚さをあまり感じず、かわいらしさを感じていたということから、このかわいさをより感じてほしかったという意図もあります。</p>
+<p>彼女の文字を使ったエンターテインメントコンテンツとして、彼女の手書き文字をコンピュータフォントに変換し、常日頃から使っていただけるようにするものがあります。
+このプロジェクトはとても人気であり、有志により、ウェブサイト上のすべての文字を沙花叉フォントに変換する拡張機能も作られたほどです。</p>
+<p>実際に試したい方は<a href="https://font.sakamata.ch">こちら</a>をご覧ください。</p>
+<p><img src="https://user-images.githubusercontent.com/26180919/209076584-a518dbe6-5e8c-41d9-8302-38238ed27ffa.png" alt="沙花叉フォントで「本日はせいてんなり。」と出力した図"></p>
+<h3 id="子プロジェクト-sakamatafontdcgan">子プロジェクト SakamataFontDCGAN</h3>
+<p>本家SakamataFontProjectでは沙花叉クロヱが実際に書いた字の中で、一定の審査を行ったうえで文字の追加をしていましたが、
+SakamataFontDCGANではDCGANを使い彼女風の字を無から生成します。</p>
+<p>これにより、様々なコンテンツに未知の文字としてさりげなく紛れ込ませることができ、
+より文字をエンターテインメントコンテンツとして楽しんでいただけるように。
+また、3次創作作品などの作成を活発に行えるようにしています。</p>
+<hr>
+<h2 id="個人製作荒木-exclamationping">個人製作(荒木): ExclamationPing</h2>
+<p>Cisco系ルータでおなじみ<code>.!!!!</code>をWindowsでも楽しめるPingツールです。</p>
+<p>ある程度のコマンドはCiscoルータと同一にしており、</p>
+<p><img src="https://user-images.githubusercontent.com/26180919/209076303-293b737b-90b5-4649-8c97-467f33e5c7cd.png" alt="コマンドとその実行例"></p>
+<p>など、CiscoユーザならすぐになじめるPingコマンドです。</p>
+<p>dotnetを使ったマルチプラットフォーム対応のため、WindowsやLinuxで実行できます。</p>
+]]></content></item><item><title>実際の攻撃手段を学んで自衛しよう</title><link>https://connect.pim-shimane.com/posts/20211219-protect-from-steal/</link><pubDate>Wed, 15 Dec 2021 00:00:00 +0900</pubDate><guid>https://connect.pim-shimane.com/posts/20211219-protect-from-steal/</guid><description>セキュリティの関係上、再現性が出てしまう内容は黒塗りにしています。 具体的な手法をわからなくしているので危険性がいまいちわからないかと思います</description><content type="html"><![CDATA[<iframe style="width: 100%; height: 500px;" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
     src="http://www.slideshare.net/slideshow/embed_code/250862830?rel=0" allowfullscreen webkitallowfullscreen
     mozallowfullscreen> </iframe>
 <p>セキュリティの関係上、再現性が出てしまう内容は黒塗りにしています。</p>
